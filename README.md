@@ -1,7 +1,7 @@
 ## Portfolio
 This portfoilio is a small project using HTML / CSS / BootStrap. I will be using this to showcase my projects.
 
-{Live Heroku_Deployement}(https://portfolio-jonathan.herokuapp.com/)
+[Live Heroku_Deployement](https://portfolio-jonathan.herokuapp.com/)
 
 ![Screenshot (134)](https://user-images.githubusercontent.com/88953480/138041107-22181bbb-8071-420a-919a-19ff44d2e788.png)
 

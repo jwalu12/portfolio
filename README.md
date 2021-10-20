@@ -1,5 +1,5 @@
 ## Portfolio
-This portfoilio is a small project using HTML / CSS / BootStrap. I will be using this to showcase my projects.
+This portfolio is a small project using HTML / CSS / BootStrap. I will be using this to showcase my projects.
 
 [Live Heroku_Deployement](https://portfolio-jonathan.herokuapp.com/)
 
